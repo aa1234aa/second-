@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bfb4d3f-08cb-4aa9-9869-87f51b95ef95" name="Default" comment="">
+    <list default="true" id="6bfb4d3f-08cb-4aa9-9869-87f51b95ef95" name="Default" comment="上传java">
+      <change beforePath="$PROJECT_DIR$/../myproject/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../myproject/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/../myproject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../myproject/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../myproject/src/main/webapp/java" afterPath="$PROJECT_DIR$/../myproject/src/main/webapp/java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,10 +17,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="simpleTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simpleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/simpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="89">
               <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -27,14 +29,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ananDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/ananDemo.java">
+      <file leaf-file-name="Mytest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/Mytest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teaa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/teaa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,17 +60,17 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../myproject/src/main/webapp/java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../myproject" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../myproject/src/main/webapp/java" value="master" />
+        <entry key="$PROJECT_DIR$/src/main/webapp/java" value="anothor" />
       </map>
     </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
     <push-targets>
-      <push-target-info target-remote="origin" target-branch="anothor" repo="$PROJECT_DIR$/../myproject/src/main/webapp/java" source="anothor" />
+      <push-target-info target-remote="origin" target-branch="anothor" repo="$PROJECT_DIR$/src/main/webapp/java" source="anothor" />
     </push-targets>
   </component>
   <component name="GradleLocalSettings">
@@ -76,8 +86,10 @@
         <option value="$PROJECT_DIR$/src/main/webapp/java/simpleTest.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/java/ananDemo.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/java/simpleTest.java" />
-        <option value="$PROJECT_DIR$/../myproject/src/main/webapp/java/simpleTest.java" />
-        <option value="$PROJECT_DIR$/../myproject/src/main/webapp/java/ananDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/java/simpleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/java/ananDemo.java" />
+        <option value="$PROJECT_DIR$/../myproject/src/main/webapp/java/teaa.java" />
+        <option value="$PROJECT_DIR$/../myproject/src/main/webapp/java/Mytest.java" />
       </list>
     </option>
   </component>
@@ -110,8 +122,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -156,12 +168,17 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myproject" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/java" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../myproject" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myproject\src\main\webapp\aa" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ananDemo">
+  <component name="RunManager" selected="JUnit.simpleTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -366,11 +383,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ananDemo" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.simpleTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.simpleTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.simpleTest.dd" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.ananDemo.Initfirfox" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.simpleTest.dd" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ananDemo.testGetAge" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ananDemo.testGetAge" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ananDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +416,8 @@
       <workItem from="1522054371299" duration="907000" />
       <workItem from="1522113331018" duration="1217000" />
       <workItem from="1522117078666" duration="2167000" />
-      <workItem from="1522207071250" duration="5356000" />
+      <workItem from="1522207071250" duration="9503000" />
+      <workItem from="1522246444217" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1522208640919</created>
@@ -443,7 +461,28 @@
       <option name="project" value="LOCAL" />
       <updated>1522216219118</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1">
+      <created>1522217291105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1522217291105</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1">
+      <created>1522218331098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1522218331098</updated>
+    </task>
+    <task id="LOCAL-00009" summary="上传java">
+      <created>1522247174607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1522247174607</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -479,26 +518,25 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20074000" />
+    <option name="totallyTimeSpent" value="25633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.4941435" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2976378" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32755905" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20497803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19912152" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -511,6 +549,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.4941435" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -523,7 +562,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="上传java" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -580,13 +620,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/ananDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="18" column="70" lean-forward="true" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/ananDemo.java" />
     <entry file="file://$PROJECT_DIR$/../myproject/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
@@ -595,13 +629,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/ananDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/ananDemo.java" />
     <entry file="file://$PROJECT_DIR$/../myproject/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -618,23 +646,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/ananDemo.java">
+    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/aa/ananDemo.java" />
+    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/ananDemo.java" />
+    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/simpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="89">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/simpleTest.java">
+    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/teaa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myproject/src/main/webapp/java/Mytest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
